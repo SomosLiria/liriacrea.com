@@ -1,1 +1,0 @@
-import{t as e}from"./start3d.COMeS456.js";e();
